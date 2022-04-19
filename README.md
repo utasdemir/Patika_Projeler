@@ -7,8 +7,11 @@
     2)En küçük elemanı en baştaki eleman ile değiştir.
     3)2. elenamdan başlayarak kalan dizideki en küçük elemanı bul.
     4)En küçük elemanı 2. eleman ile değiştir.
-  ..
-  işlemleri n-1 elemanına kadar tekrala
+      ..
+      işlemleri n-1 elemanına kadar tekrala
+    [2,27,16,22,18,6]
+    [2,6,16,22,18,27]
+    [2,6,16,18,22,27]
 
 ### 2- Big-O gösterimini yazınız.
 
